@@ -1,7 +1,7 @@
 <rss xmlns:blogChannel="http://backend.userland.com/blogChannelModule" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" version="2.0">
 <channel>
 <title>The Djekian Crusaders</title>
-<link>https://djekiancrusaders.tumblr.com/</link>
+<link>http://djekiancrusaders.tumblr.com/</link>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="via" href="http://raw.githubusercontent.com/dregadude/the-djekian-crusaders/master/rss" type="application/rss+xml"/>
 <atom:link xmlns:atom="http://www.w3.org/2005/Atom" rel="self" href="http://raw.githubusercontent.com/dregadude/the-djekian-crusaders/master/rss" type="application/rss+xml"/>
 <description>
@@ -15,11 +15,11 @@ The Djekian Crusaders is an original DND 5E podcast DMed and edited by Drega. Th
 <managingEditor>dregadude@gmail.com ( dregadude )</managingEditor>
 <language>en</language>
 <image>
-<url>https://i.imgur.com/7lfYhVC.jpg</url>
+<url>http://i.imgur.com/7lfYhVC.jpg</url>
 <title>The Djekian Crusaders</title>
-<link>https://raw.githubusercontent.com/dregadude/the-djekian-crusaders/master/rss</link>
+<link>http://raw.githubusercontent.com/dregadude/the-djekian-crusaders/master/rss</link>
 </image>
-<itunes:image href="https://i.imgur.com/7lfYhVC.jpg"/>
+<itunes:image href="http://i.imgur.com/7lfYhVC.jpg"/>
 <itunes:subtitle>The Quarantine’s Premiere Actual Play DnD Podcast</itunes:subtitle>
 <itunes:summary>
 <![CDATA[
@@ -35,7 +35,7 @@ dnd, 5e, actual play, comedy, the djekian crusaders, dregadude, seasideslug, san
 <itunes:name>dregadude</itunes:name>
 </itunes:owner>
 <itunes:author>dregadude</itunes:author>
-<itunes:category text="Other Games"></itunes:category>
+<itunes:category text="Games & Hobbies"></itunes:category>
 <itunes:category text="Comedy"></itunes:category>
 <item>
 <title>Episode 13 (Lost)</title>
@@ -43,10 +43,10 @@ dnd, 5e, actual play, comedy, the djekian crusaders, dregadude, seasideslug, san
 Oh no!!! We lost the recording for this episode, so Drega and co. go over the main things that happened. Mostly, the Djekian Crusaders deliberate on where to go next, and say a tearful farewell.
 </description>
 <link>
-https://djekiancrusaders.tumblr.com/post/168837348387/the-djekian-crusaders-ep-13-lost
+http://djekiancrusaders.tumblr.com/post/168837348387/the-djekian-crusaders-ep-13-lost
 </link>
-<guid isPermaLink="true">http://feeds.rapidfeeds.com/?iid4ct=7579141</guid>
-<enclosure url="https://archive.org/download/TdcEp13/ep%2013%20bad.mp3" length="83249655" type="audio/mpeg"/>
+<guid isPermaLink="true">http://djekiancrusaders.tumblr.com/post/168837348387/the-djekian-crusaders-ep-13-lost</guid>
+<enclosure url="http://archive.org/download/TdcEp13/ep%2013%20bad.mp3" length="83249655" type="audio/mpeg"/>
 <itunes:subtitle></itunes:subtitle>
 <itunes:duration>00:14:04</itunes:duration>
 <itunes:summary>
@@ -63,7 +63,7 @@ Drega takes a moment to explain the homebrew travel rules he wrote up, to a very
 <link>
 http://djekiancrusaders.tumblr.com/post/168375086802/interlude-tdc-refugees-dregadude-free
 </link>
-<guid isPermaLink="true">http://feeds.rapidfeeds.com/?iid4ct=7579141</guid>
+<guid isPermaLink="true">http://djekiancrusaders.tumblr.com/post/168375086802/interlude-tdc-refugees-dregadude-free</guid>
 <enclosure url="http://archive.org/download/TDCRefugees/travel%20rules.mp3" length="83249655" type="audio/mpeg"/>
 <itunes:subtitle></itunes:subtitle>
 <itunes:duration>00:31:45</itunes:duration>
@@ -99,6 +99,7 @@ Happy Halloween! In this prequel one-off (split in half for length), the gang ge
 <link>
 http://djekiancrusaders.tumblr.com/post/166988432172/the-djekian-crusaders-ep-11-halloween-12
 </link>
+<guid isPermaLink="true">http://feeds.rapidfeeds.com/?iid4ct=7579140</guid>
 <enclosure url="http://archive.org/download/TheDjekianCrusadersEp11Halloween/the%20djekian%20crusaders%20ep%2011%20halloween.mp3" length="101011457" type="audio/mpeg"/>
 <itunes:subtitle></itunes:subtitle>
 <itunes:duration>01:10:08</itunes:duration>
